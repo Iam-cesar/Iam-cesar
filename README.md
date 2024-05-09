@@ -1,5 +1,13 @@
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 02 May 2024 - To: 09 May 2024
+
+TypeScript   1 hr 41 mins    █████████████████████████   99.95 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
