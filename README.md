@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2024 - To: 19 October 2024
+From: 07 May 2024 - To: 20 October 2024
 
-Total Time: 572 hrs 33 mins
+Total Time: 572 hrs 40 mins
 
-TypeScript       557 hrs 39 mins >>>>>>>>>>>>>>>>>>>>>>>>-   96.35 %
-JSON             7 hrs 52 mins   -------------------------   01.36 %
+TypeScript       557 hrs 40 mins >>>>>>>>>>>>>>>>>>>>>>>>-   96.33 %
+JSON             7 hrs 53 mins   -------------------------   01.36 %
 Other            6 hrs 13 mins   -------------------------   01.08 %
-Bash             2 hrs 39 mins   -------------------------   00.46 %
-JavaScript       2 hrs 20 mins   -------------------------   00.40 %
+Bash             2 hrs 42 mins   -------------------------   00.47 %
+JavaScript       2 hrs 22 mins   -------------------------   00.41 %
 ```
 
 <!--END_SECTION:waka-->
