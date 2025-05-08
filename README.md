@@ -17,11 +17,9 @@ Bash             4 hrs 37 mins   -------------------------   00.42 %
 
 <!--END_SECTION:waka-->
 
-<p align="center" >  
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Iam-cesar&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
+![Iam-cesar's Stats](https://github-readme-stats.vercel.app/api?username=Iam-cesar&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+![Iam-cesar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iam-cesar&theme=dark&hide_border=false)
 
 <!--
 
