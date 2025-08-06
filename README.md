@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2024 - To: 03 August 2025
+From: 07 May 2024 - To: 04 August 2025
 
-Total Time: 1,388 hrs 3 mins
+Total Time: 1,389 hrs 57 mins
 
-TypeScript       1,332 hrs 59 mins>>>>>>>>>>>>>>>>>>>>>>>>-   94.62 %
-JSON             20 hrs 47 mins  -------------------------   01.48 %
+TypeScript       1,334 hrs 53 mins>>>>>>>>>>>>>>>>>>>>>>>>-   94.63 %
+JSON             20 hrs 47 mins  -------------------------   01.47 %
 Other            20 hrs 40 mins  -------------------------   01.47 %
 Go               13 hrs 49 mins  -------------------------   00.98 %
 JavaScript       6 hrs           -------------------------   00.43 %
